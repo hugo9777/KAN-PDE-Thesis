@@ -1,7 +1,0 @@
-torch
-numpy
-matplotlib
-scipy
-tqdm
-sympy
-efficient-kan
